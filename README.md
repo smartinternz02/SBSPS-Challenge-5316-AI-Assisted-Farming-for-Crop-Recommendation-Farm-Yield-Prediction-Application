@@ -3,7 +3,7 @@
 ## Participants:
 <ul>
   <li><a href="https://github.com/Saychakr13">Sayak Chakraborty</a></li>
-  <li>Riom Sen</li>
+  <li><a href="https://github.com/Saychakr13">Riom Sen</a></li>
 </ul>
 
 ## Idea Flow:
