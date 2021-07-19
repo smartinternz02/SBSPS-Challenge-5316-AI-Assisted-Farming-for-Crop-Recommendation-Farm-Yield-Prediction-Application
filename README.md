@@ -9,7 +9,7 @@
 ## Idea Flow:
 <ul>
   <li>CROP RECOMMENDATION: Regression -- Auto Ai </li>
-  <li>Production Forecasting : We have to divide the dataset based on loaction and crop 
+  <li>Production Forecasting : We have to divide the dataset based on location and crop 
     <ul>
       <li>choice a : time series analysis of Prod/area, using RNN or Exponential Weighted avg</li>
       <li>choice b (Regression) : production = f(area)</li>
