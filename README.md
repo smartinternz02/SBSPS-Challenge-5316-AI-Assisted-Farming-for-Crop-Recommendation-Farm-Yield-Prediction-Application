@@ -18,3 +18,8 @@
   <li>Input Form : Node Red</li>
 
 </ul>
+
+## Link to Dashboard:
+<ul>
+  <li><a href="https://node-red-xzncm-2021-07-13.mybluemix.net/ui/#!/1?socketid=giJ6IaM2tHlstZ7fAAAg">IoT</a></li>
+</ul>
