@@ -19,4 +19,5 @@
 <ul>
   <li><a href="https://node-red-xzncm-2021-07-13.mybluemix.net/ui/#!/1?socketid=giJ6IaM2tHlstZ7fAAAg">Crop prediction using IoT and yield prediction</a></li>
   <li><a href="https://node-red-rgxpi-2021-07-04.eu-gb.mybluemix.net/ui/#!/1?socketid=R3hw4osYE5ZfrEsGAAAL">Crop prediction using Form and yield prediction</a></li>
+  <li><a href="https://drive.google.com/file/d/1SV3wfUUDYJJRMLDfsbuIwzpdGL2PR9Rk/view?usp=sharing">Video demonstration of our project</a></li>
 </ul>
